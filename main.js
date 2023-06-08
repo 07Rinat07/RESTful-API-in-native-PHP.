@@ -1,7 +1,7 @@
 
 
 async function getPosts(){
-    let res = await fetch('https://jsonplaceholder.typicode.com/posts');
+    let res = await fetch('https://jsonplaceholder.typicode.com/comments');
     let posts = await res.json();
 
 
