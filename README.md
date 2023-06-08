@@ -7,5 +7,3 @@
 
 ### API:
 * https://jsonplaceholder.typicode.com/
-### DEMO:
-* https://07rinat07.github.io/RESTful-API-in-native-PHP./
